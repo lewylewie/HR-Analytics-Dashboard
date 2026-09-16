@@ -1,10 +1,10 @@
-## HR Analytics & Employee Attrition Dashboard
+# HR Analytics & Employee Attrition Dashboard
 An end-to-end Human Resources Business Intelligence project designed to track workforce demographics, measure employee turnover patterns, and evaluate job satisfaction across organizational levels.
 
-# Project Overview
+## Project Overview
 Employee attrition is a critical metric for organizational health and retention strategy. This Power BI dashboard was built to empower HR leaders with actionable insights into who is leaving, where turnover is highest, and what demographic or educational factors correlate with attrition.
 
-# Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 Overall Employees: 1,470 active and historical records analyzed.
 
 Total Attrition: 237 employees departed.
@@ -15,7 +15,7 @@ Active Workforce: 1,233 retained employees.
 
 Average Age: 37 years old.
 
-# Key Insights & Features
+## Key Insights & Features
 Department Breakdown: Identifies turnover concentrations across R&D (56.12%), Sales (38.82%), and HR (5.06%).
 
 Age & Gender Distribution: Analyzes workforce composition by age brackets (highlighting peak representation in the 25–34 and 35–44 ranges) split by gender.
@@ -28,7 +28,7 @@ Attrition Risk by Age Group: Detailed donut-chart breakdowns tracking gender-bas
 
 Interactive Filtering: Includes dynamic slicers by educational attainment (Associate, Bachelor, Doctoral, High School, Master's Degree) to filter the entire report canvas seamlessly.
 
-# Tech Stack & Tools
+## Tech Stack & Tools
 Visualization: Microsoft Power BI (Custom gradient UI design, DAX measures, Power Query data transformations)
 
 Data Source: HR dataset structured for relational modeling
